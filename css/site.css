@@ -1,8 +1,12 @@
 :root {
-    --primary-color: #1d5888;
-    --secondary-color: #ff993b;
-    --dark-color: #292929;
-    --white-color: #dff3e4;
+    --primary-color: #68B0AB;
+    --secondary-color: #FF7E67;
+    --dark-color: #006A71;
+    --white-color: #ECF4F3;
+}
+
+.logoFont {
+    font-family: 'Racing Sans One', cursive;
 }
 
 body {
