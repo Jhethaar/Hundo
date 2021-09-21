@@ -21,18 +21,13 @@ nav {
     background-color: var(--dark-color);
 }
 
-footer {
-    background-color: var(--dark-color);
+main.container {
+    padding: 60px 15px 0;
 }
 
-footer .social>a{
+.btn {
     color: var(--white-color);
-    opacity: 0.75;
-}
-
-footer .social>a:hover{
-    color: var(--secondary-color);
-    opacity: 0.9;
+    background-color: var(--dark-color);
 }
 
 .bsicon{
@@ -62,6 +57,16 @@ code[class*="language-"],
         word-wrap: break-word;
 }
 
-main>.container {
-    padding: 60px 15px 0;
+footer {
+    background-color: var(--dark-color);
+}
+
+footer .social>a{
+    color: var(--white-color);
+    opacity: 0.75;
+}
+
+footer .social>a:hover{
+    color: var(--secondary-color);
+    opacity: 0.9;
 }
